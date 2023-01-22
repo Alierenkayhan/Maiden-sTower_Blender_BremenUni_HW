@@ -89,10 +89,10 @@ See the [open issues](https://github.com/Alierenkayhan/Maiden-sTower_Blender_Bre
   1-Screenshots of homework 
   <table> 
     <tr>
-        <td>  <img align="left" src="" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
-        <td>  <img align="left" src="" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
-         <td>  <img align="left" src="" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
-          <td>  <img align="left" src="" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW/blob/main/images/Maiden-sTower_Blender_BremenUni_HW_ss1.png?raw=true" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW/blob/main/images/Maiden-sTower_Blender_BremenUni_HW_ss2.png?raw=true" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
+         <td>  <img align="left" src="https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW/blob/main/images/Maiden-sTower_Blender_BremenUni_HW_ss3.png?raw=true" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
+          <td>  <img align="left" src="https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW/blob/main/images/Maiden-sTower_Blender_BremenUni_HW_ss4.png?raw=true" alt="Alierenkayhan-Maiden-sTower_Blender_BremenUni_HW" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
   
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 If you have any feedback, please contact me at ali_erenbatman@hotmail.com.
 
-Project Link: [https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW](https://github.com/Alierenkayhan/Blender_BremenUni_HW)
+Project Link: [https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW](https://github.com/Alierenkayhan/Maiden-sTower_Blender_BremenUni_HW)
 
 
 <!-- Resources -->
